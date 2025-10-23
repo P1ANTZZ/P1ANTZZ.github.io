@@ -10,4 +10,4 @@
 </hmtl>
 <img src="https://i.imgur.com/F7rqrGd.png">
 <img src="https://i.imgur.com/BplkPfK.png">
-<imf scr="https://media1.tenor.com/m/J3FiWDnw2Z4AAAAd/devil-may-cry-nero.gif">
+<img scr="https://media1.tenor.com/m/J3FiWDnw2Z4AAAAd/devil-may-cry-nero.gif">
