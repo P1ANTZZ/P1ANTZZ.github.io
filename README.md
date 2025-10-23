@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
 	<body>
-		<h1><b>AWOOGA BIN!!!</b></h1>
+		<h1><b>The list.</b></h1>
 	</body>	
 </hmtl>
 <img src="https://i.imgur.com/F7rqrGd.png">
